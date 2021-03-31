@@ -1,6 +1,6 @@
 # Movie App With React
 
-Demo https://ecstatic-chandrasekhar-46828f.netlify.app/
+Demo https://ecstatic-chandrasekhar-46828f.netlify.app/ .\
 API by https://themoviedb.org/
 
 # Getting Started with Create React App
